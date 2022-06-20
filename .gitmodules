@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BifactorIndicesCalculator"]
+	path = BifactorIndicesCalculator
+	url = https://github.com/ddueber/bifactorindicescalculator
+	shallow = true
+	registered = true
